@@ -25,6 +25,22 @@ Ensure you have the following dependencies installed:
 
 # Working
 
+- Example 1:
+  ![Example 1](images/Detecting age and gender woman1.png)
+*Caption: Predicted gender and age for a sample image downloaded from Internet.*
+
+- Example 2:
+![Example 1](images/Detecting age and gender man2.png)
+*Caption: Predicted gender and age for a sample image.*
+
+- Example 3:
+![Example 1](images/Detecting age and gender kid2.png)
+*Caption: Predicted gender and age for a sample image.*
+
+- Example 4:
+![Example 1](images/Detecting age and gender girl2.png)
+*Caption: Predicted gender and age for a sample image.*
+
 
 
 
